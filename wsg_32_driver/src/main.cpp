@@ -73,7 +73,7 @@
 // Typedefs, enums, structs
 //------------------------------------------------------------------------
 
-#define GRIPPER_MAX_OPEN 110.0 //Change it to 110 for WSG 50
+#define GRIPPER_MAX_OPEN 68.0 //Change it to 110 for WSG50 and 68 for WSG32
 #define GRIPPER_MIN_OPEN 0.0
 
 //------------------------------------------------------------------------
